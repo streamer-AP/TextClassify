@@ -17,4 +17,3 @@ python text_classify.py --input [xxx]
 
 [xxx]填写文件名
 
-## 权重
